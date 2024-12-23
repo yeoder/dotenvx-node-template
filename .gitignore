@@ -1,0 +1,9 @@
+# Ignore dotenvx private keys file
+#.env.keys
+
+# Dependency directories
+node_modules/
+
+# Build / generate output
+out
+dist
